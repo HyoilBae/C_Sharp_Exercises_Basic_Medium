@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\Swap_two_numbers\Swap_two_numbers\bin\Debug\Swap_two_numbers.exe.config
+C:\Users\hyoil\source\repos\Swap_two_numbers\Swap_two_numbers\bin\Debug\Swap_two_numbers.exe
+C:\Users\hyoil\source\repos\Swap_two_numbers\Swap_two_numbers\bin\Debug\Swap_two_numbers.pdb
+C:\Users\hyoil\source\repos\Swap_two_numbers\Swap_two_numbers\obj\Debug\Swap_two_numbers.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\Swap_two_numbers\Swap_two_numbers\obj\Debug\Swap_two_numbers.exe
+C:\Users\hyoil\source\repos\Swap_two_numbers\Swap_two_numbers\obj\Debug\Swap_two_numbers.pdb

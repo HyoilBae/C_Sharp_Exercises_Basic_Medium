@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\Users\hyoil\source\repos\C#\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\hyoil\source\repos\C#\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\hyoil\source\repos\C#\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\Users\hyoil\source\repos\C#\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
+C:\Users\hyoil\source\repos\C#\MultiplicationTable\obj\Debug\MultiplicationTable.csprojAssemblyReference.cache

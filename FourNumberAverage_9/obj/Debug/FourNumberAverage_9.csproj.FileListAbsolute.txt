@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\FourNumberAverage_9\bin\Debug\FourNumberAverage_9.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\FourNumberAverage_9\bin\Debug\FourNumberAverage_9.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\FourNumberAverage_9\bin\Debug\FourNumberAverage_9.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\FourNumberAverage_9\obj\Debug\FourNumberAverage_9.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\FourNumberAverage_9\obj\Debug\FourNumberAverage_9.pdb
