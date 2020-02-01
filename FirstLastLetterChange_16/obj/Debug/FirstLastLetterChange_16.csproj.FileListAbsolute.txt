@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\FirstLastLetterChange_16\bin\Debug\FirstLastLetterChange_16.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\FirstLastLetterChange_16\bin\Debug\FirstLastLetterChange_16.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\FirstLastLetterChange_16\bin\Debug\FirstLastLetterChange_16.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\FirstLastLetterChange_16\obj\Debug\FirstLastLetterChange_16.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\FirstLastLetterChange_16\obj\Debug\FirstLastLetterChange_16.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\FirstLastLetterChange_16\obj\Debug\FirstLastLetterChange_16.pdb
