@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\CharAddFrontAndBack_17\bin\Debug\CharAddFrontAndBack_17.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\CharAddFrontAndBack_17\bin\Debug\CharAddFrontAndBack_17.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\CharAddFrontAndBack_17\bin\Debug\CharAddFrontAndBack_17.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\CharAddFrontAndBack_17\obj\Debug\CharAddFrontAndBack_17.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\CharAddFrontAndBack_17\obj\Debug\CharAddFrontAndBack_17.pdb
