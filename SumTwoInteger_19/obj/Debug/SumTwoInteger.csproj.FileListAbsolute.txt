@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\SumTwoInteger\bin\Debug\SumTwoInteger.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\SumTwoInteger\bin\Debug\SumTwoInteger.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\SumTwoInteger\bin\Debug\SumTwoInteger.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\SumTwoInteger\obj\Debug\SumTwoInteger.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\SumTwoInteger\obj\Debug\SumTwoInteger.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\SumTwoInteger\obj\Debug\SumTwoInteger.pdb
