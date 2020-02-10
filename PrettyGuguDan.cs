@@ -18,6 +18,22 @@ namespace PrettyGugudan
                 }
                 Console.WriteLine();
             }
+            Console.WriteLine();
+
+            int n = 1;
+            int nn = 2;
+            while (n <= 9)
+            {
+                while (nn <= 9)
+                {
+                    Console.Write($"{nn} * {n} = {nn * n}\t");
+                    nn++;
+                }
+                Console.WriteLine();
+                nn = 2;
+                n++;
+                
+            }
         }
     }
 }
