@@ -20,6 +20,7 @@ namespace PrettyGugudan
             }
             Console.WriteLine();
 
+
             int n = 1;
             int nn = 2;
             while (n <= 9)
