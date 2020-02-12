@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\ParentChildBaseOverride\obj\Debug\ParentChildBaseOverride.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\ParentChildBaseOverride\bin\Debug\ParentChildBaseOverride.exe.config
+C:\Users\hyoil\source\repos\C#\ParentChildBaseOverride\bin\Debug\ParentChildBaseOverride.exe
+C:\Users\hyoil\source\repos\C#\ParentChildBaseOverride\bin\Debug\ParentChildBaseOverride.pdb
+C:\Users\hyoil\source\repos\C#\ParentChildBaseOverride\obj\Debug\ParentChildBaseOverride.exe
+C:\Users\hyoil\source\repos\C#\ParentChildBaseOverride\obj\Debug\ParentChildBaseOverride.pdb
