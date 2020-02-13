@@ -10,7 +10,7 @@ namespace StartWithString_34
     {
         static void Main(string[] args)
         {
-            string test = "Hello how are you?";
+            //string test = "Hello how are you?";
 
             //while (test.StartsWith("Hello"))
             //{
