@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CSC205\CSC205_Method_Sample_2\bin\Debug\CSC205_Method_Sample_2.exe.config
+C:\Users\hyoil\source\repos\CSC205\CSC205_Method_Sample_2\bin\Debug\CSC205_Method_Sample_2.exe
+C:\Users\hyoil\source\repos\CSC205\CSC205_Method_Sample_2\bin\Debug\CSC205_Method_Sample_2.pdb
+C:\Users\hyoil\source\repos\CSC205\CSC205_Method_Sample_2\obj\Debug\CSC205_Method_Sample_2.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CSC205\CSC205_Method_Sample_2\obj\Debug\CSC205_Method_Sample_2.exe
+C:\Users\hyoil\source\repos\CSC205\CSC205_Method_Sample_2\obj\Debug\CSC205_Method_Sample_2.pdb
