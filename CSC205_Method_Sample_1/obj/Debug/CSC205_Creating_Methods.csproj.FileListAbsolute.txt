@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CSC205\CSC205_Creating_Methods\bin\Debug\CSC205_Creating_Methods.exe.config
+C:\Users\hyoil\source\repos\CSC205\CSC205_Creating_Methods\bin\Debug\CSC205_Creating_Methods.exe
+C:\Users\hyoil\source\repos\CSC205\CSC205_Creating_Methods\bin\Debug\CSC205_Creating_Methods.pdb
+C:\Users\hyoil\source\repos\CSC205\CSC205_Creating_Methods\obj\Debug\CSC205_Creating_Methods.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CSC205\CSC205_Creating_Methods\obj\Debug\CSC205_Creating_Methods.exe
+C:\Users\hyoil\source\repos\CSC205\CSC205_Creating_Methods\obj\Debug\CSC205_Creating_Methods.pdb
