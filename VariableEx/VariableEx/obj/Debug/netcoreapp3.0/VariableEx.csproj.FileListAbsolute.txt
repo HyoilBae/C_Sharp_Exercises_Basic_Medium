@@ -1,0 +1,11 @@
+C:\CSharp\pjt\lec03\VariableEx\VariableEx\bin\Debug\netcoreapp3.0\VariableEx.exe
+C:\CSharp\pjt\lec03\VariableEx\VariableEx\bin\Debug\netcoreapp3.0\VariableEx.deps.json
+C:\CSharp\pjt\lec03\VariableEx\VariableEx\bin\Debug\netcoreapp3.0\VariableEx.runtimeconfig.json
+C:\CSharp\pjt\lec03\VariableEx\VariableEx\bin\Debug\netcoreapp3.0\VariableEx.runtimeconfig.dev.json
+C:\CSharp\pjt\lec03\VariableEx\VariableEx\bin\Debug\netcoreapp3.0\VariableEx.dll
+C:\CSharp\pjt\lec03\VariableEx\VariableEx\bin\Debug\netcoreapp3.0\VariableEx.pdb
+C:\CSharp\pjt\lec03\VariableEx\VariableEx\obj\Debug\netcoreapp3.0\VariableEx.csprojAssemblyReference.cache
+C:\CSharp\pjt\lec03\VariableEx\VariableEx\obj\Debug\netcoreapp3.0\VariableEx.AssemblyInfoInputs.cache
+C:\CSharp\pjt\lec03\VariableEx\VariableEx\obj\Debug\netcoreapp3.0\VariableEx.AssemblyInfo.cs
+C:\CSharp\pjt\lec03\VariableEx\VariableEx\obj\Debug\netcoreapp3.0\VariableEx.dll
+C:\CSharp\pjt\lec03\VariableEx\VariableEx\obj\Debug\netcoreapp3.0\VariableEx.pdb
