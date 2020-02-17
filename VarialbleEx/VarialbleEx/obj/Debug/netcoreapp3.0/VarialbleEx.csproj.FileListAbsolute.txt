@@ -1,0 +1,11 @@
+C:\CSharp\pjt\lec04\VarialbleEx\VarialbleEx\bin\Debug\netcoreapp3.0\VarialbleEx.exe
+C:\CSharp\pjt\lec04\VarialbleEx\VarialbleEx\bin\Debug\netcoreapp3.0\VarialbleEx.deps.json
+C:\CSharp\pjt\lec04\VarialbleEx\VarialbleEx\bin\Debug\netcoreapp3.0\VarialbleEx.runtimeconfig.json
+C:\CSharp\pjt\lec04\VarialbleEx\VarialbleEx\bin\Debug\netcoreapp3.0\VarialbleEx.runtimeconfig.dev.json
+C:\CSharp\pjt\lec04\VarialbleEx\VarialbleEx\bin\Debug\netcoreapp3.0\VarialbleEx.dll
+C:\CSharp\pjt\lec04\VarialbleEx\VarialbleEx\bin\Debug\netcoreapp3.0\VarialbleEx.pdb
+C:\CSharp\pjt\lec04\VarialbleEx\VarialbleEx\obj\Debug\netcoreapp3.0\VarialbleEx.csprojAssemblyReference.cache
+C:\CSharp\pjt\lec04\VarialbleEx\VarialbleEx\obj\Debug\netcoreapp3.0\VarialbleEx.AssemblyInfoInputs.cache
+C:\CSharp\pjt\lec04\VarialbleEx\VarialbleEx\obj\Debug\netcoreapp3.0\VarialbleEx.AssemblyInfo.cs
+C:\CSharp\pjt\lec04\VarialbleEx\VarialbleEx\obj\Debug\netcoreapp3.0\VarialbleEx.dll
+C:\CSharp\pjt\lec04\VarialbleEx\VarialbleEx\obj\Debug\netcoreapp3.0\VarialbleEx.pdb
