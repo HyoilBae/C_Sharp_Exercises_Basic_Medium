@@ -1,0 +1,11 @@
+C:\CSharp\pjt\lec02\pjt02\ConsolePjt\ConsolePjt\bin\Debug\netcoreapp3.0\ConsolePjt.exe
+C:\CSharp\pjt\lec02\pjt02\ConsolePjt\ConsolePjt\bin\Debug\netcoreapp3.0\ConsolePjt.deps.json
+C:\CSharp\pjt\lec02\pjt02\ConsolePjt\ConsolePjt\bin\Debug\netcoreapp3.0\ConsolePjt.runtimeconfig.json
+C:\CSharp\pjt\lec02\pjt02\ConsolePjt\ConsolePjt\bin\Debug\netcoreapp3.0\ConsolePjt.runtimeconfig.dev.json
+C:\CSharp\pjt\lec02\pjt02\ConsolePjt\ConsolePjt\bin\Debug\netcoreapp3.0\ConsolePjt.dll
+C:\CSharp\pjt\lec02\pjt02\ConsolePjt\ConsolePjt\bin\Debug\netcoreapp3.0\ConsolePjt.pdb
+C:\CSharp\pjt\lec02\pjt02\ConsolePjt\ConsolePjt\obj\Debug\netcoreapp3.0\ConsolePjt.csprojAssemblyReference.cache
+C:\CSharp\pjt\lec02\pjt02\ConsolePjt\ConsolePjt\obj\Debug\netcoreapp3.0\ConsolePjt.AssemblyInfoInputs.cache
+C:\CSharp\pjt\lec02\pjt02\ConsolePjt\ConsolePjt\obj\Debug\netcoreapp3.0\ConsolePjt.AssemblyInfo.cs
+C:\CSharp\pjt\lec02\pjt02\ConsolePjt\ConsolePjt\obj\Debug\netcoreapp3.0\ConsolePjt.dll
+C:\CSharp\pjt\lec02\pjt02\ConsolePjt\ConsolePjt\obj\Debug\netcoreapp3.0\ConsolePjt.pdb
