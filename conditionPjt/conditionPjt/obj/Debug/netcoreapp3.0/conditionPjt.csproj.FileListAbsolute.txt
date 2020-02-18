@@ -1,0 +1,11 @@
+C:\CSharp\pjt\lec07\conditionPjt\conditionPjt\bin\Debug\netcoreapp3.0\conditionPjt.exe
+C:\CSharp\pjt\lec07\conditionPjt\conditionPjt\bin\Debug\netcoreapp3.0\conditionPjt.deps.json
+C:\CSharp\pjt\lec07\conditionPjt\conditionPjt\bin\Debug\netcoreapp3.0\conditionPjt.runtimeconfig.json
+C:\CSharp\pjt\lec07\conditionPjt\conditionPjt\bin\Debug\netcoreapp3.0\conditionPjt.runtimeconfig.dev.json
+C:\CSharp\pjt\lec07\conditionPjt\conditionPjt\bin\Debug\netcoreapp3.0\conditionPjt.dll
+C:\CSharp\pjt\lec07\conditionPjt\conditionPjt\bin\Debug\netcoreapp3.0\conditionPjt.pdb
+C:\CSharp\pjt\lec07\conditionPjt\conditionPjt\obj\Debug\netcoreapp3.0\conditionPjt.csprojAssemblyReference.cache
+C:\CSharp\pjt\lec07\conditionPjt\conditionPjt\obj\Debug\netcoreapp3.0\conditionPjt.AssemblyInfoInputs.cache
+C:\CSharp\pjt\lec07\conditionPjt\conditionPjt\obj\Debug\netcoreapp3.0\conditionPjt.AssemblyInfo.cs
+C:\CSharp\pjt\lec07\conditionPjt\conditionPjt\obj\Debug\netcoreapp3.0\conditionPjt.dll
+C:\CSharp\pjt\lec07\conditionPjt\conditionPjt\obj\Debug\netcoreapp3.0\conditionPjt.pdb
