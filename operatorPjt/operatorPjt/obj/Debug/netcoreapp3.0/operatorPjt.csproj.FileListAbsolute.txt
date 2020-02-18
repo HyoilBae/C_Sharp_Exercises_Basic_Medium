@@ -1,0 +1,11 @@
+C:\CSharp\pjt\lec05\operatorPjt\operatorPjt\bin\Debug\netcoreapp3.0\operatorPjt.exe
+C:\CSharp\pjt\lec05\operatorPjt\operatorPjt\bin\Debug\netcoreapp3.0\operatorPjt.deps.json
+C:\CSharp\pjt\lec05\operatorPjt\operatorPjt\bin\Debug\netcoreapp3.0\operatorPjt.runtimeconfig.json
+C:\CSharp\pjt\lec05\operatorPjt\operatorPjt\bin\Debug\netcoreapp3.0\operatorPjt.runtimeconfig.dev.json
+C:\CSharp\pjt\lec05\operatorPjt\operatorPjt\bin\Debug\netcoreapp3.0\operatorPjt.dll
+C:\CSharp\pjt\lec05\operatorPjt\operatorPjt\bin\Debug\netcoreapp3.0\operatorPjt.pdb
+C:\CSharp\pjt\lec05\operatorPjt\operatorPjt\obj\Debug\netcoreapp3.0\operatorPjt.csprojAssemblyReference.cache
+C:\CSharp\pjt\lec05\operatorPjt\operatorPjt\obj\Debug\netcoreapp3.0\operatorPjt.AssemblyInfoInputs.cache
+C:\CSharp\pjt\lec05\operatorPjt\operatorPjt\obj\Debug\netcoreapp3.0\operatorPjt.AssemblyInfo.cs
+C:\CSharp\pjt\lec05\operatorPjt\operatorPjt\obj\Debug\netcoreapp3.0\operatorPjt.dll
+C:\CSharp\pjt\lec05\operatorPjt\operatorPjt\obj\Debug\netcoreapp3.0\operatorPjt.pdb
