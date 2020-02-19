@@ -12,7 +12,7 @@ namespace _41WcharacterBetween1and3
         {
             Console.WriteLine("Enter String : ");
             string userInput = Console.ReadLine();
-            //.WriteLine(userInput.Substring(1, 1));
+            //WriteLine(userInput.Substring(1, 1));
             bool result = checkW(userInput);
             Console.WriteLine(result);
 
@@ -22,7 +22,7 @@ namespace _41WcharacterBetween1and3
             //Console.WriteLine("Test the string contains 'w' character  between 1 and 3 times: ");
             //Console.WriteLine(count >= 1 && count <= 3);
         }
-    }
+    
         static bool checkW(string str)
         {
             int count = 0;
