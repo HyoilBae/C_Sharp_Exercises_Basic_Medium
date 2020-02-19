@@ -1,0 +1,11 @@
+C:\CSharp\pjt\lec15\collectionPjt\collectionPjt\bin\Debug\netcoreapp3.0\collectionPjt.exe
+C:\CSharp\pjt\lec15\collectionPjt\collectionPjt\bin\Debug\netcoreapp3.0\collectionPjt.deps.json
+C:\CSharp\pjt\lec15\collectionPjt\collectionPjt\bin\Debug\netcoreapp3.0\collectionPjt.runtimeconfig.json
+C:\CSharp\pjt\lec15\collectionPjt\collectionPjt\bin\Debug\netcoreapp3.0\collectionPjt.runtimeconfig.dev.json
+C:\CSharp\pjt\lec15\collectionPjt\collectionPjt\bin\Debug\netcoreapp3.0\collectionPjt.dll
+C:\CSharp\pjt\lec15\collectionPjt\collectionPjt\bin\Debug\netcoreapp3.0\collectionPjt.pdb
+C:\CSharp\pjt\lec15\collectionPjt\collectionPjt\obj\Debug\netcoreapp3.0\collectionPjt.csprojAssemblyReference.cache
+C:\CSharp\pjt\lec15\collectionPjt\collectionPjt\obj\Debug\netcoreapp3.0\collectionPjt.AssemblyInfoInputs.cache
+C:\CSharp\pjt\lec15\collectionPjt\collectionPjt\obj\Debug\netcoreapp3.0\collectionPjt.AssemblyInfo.cs
+C:\CSharp\pjt\lec15\collectionPjt\collectionPjt\obj\Debug\netcoreapp3.0\collectionPjt.dll
+C:\CSharp\pjt\lec15\collectionPjt\collectionPjt\obj\Debug\netcoreapp3.0\collectionPjt.pdb

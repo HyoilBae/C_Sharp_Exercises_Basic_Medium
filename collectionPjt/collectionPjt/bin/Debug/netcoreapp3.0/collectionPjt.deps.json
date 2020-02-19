@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "collectionPjt/1.0.0": {
+        "runtime": {
+          "collectionPjt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "collectionPjt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
