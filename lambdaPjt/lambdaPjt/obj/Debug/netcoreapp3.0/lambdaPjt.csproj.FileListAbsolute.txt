@@ -1,0 +1,11 @@
+C:\CSharp_\pjt\lec20\lambdaPjt\lambdaPjt\bin\Debug\netcoreapp3.0\lambdaPjt.exe
+C:\CSharp_\pjt\lec20\lambdaPjt\lambdaPjt\bin\Debug\netcoreapp3.0\lambdaPjt.deps.json
+C:\CSharp_\pjt\lec20\lambdaPjt\lambdaPjt\bin\Debug\netcoreapp3.0\lambdaPjt.runtimeconfig.json
+C:\CSharp_\pjt\lec20\lambdaPjt\lambdaPjt\bin\Debug\netcoreapp3.0\lambdaPjt.runtimeconfig.dev.json
+C:\CSharp_\pjt\lec20\lambdaPjt\lambdaPjt\bin\Debug\netcoreapp3.0\lambdaPjt.dll
+C:\CSharp_\pjt\lec20\lambdaPjt\lambdaPjt\bin\Debug\netcoreapp3.0\lambdaPjt.pdb
+C:\CSharp_\pjt\lec20\lambdaPjt\lambdaPjt\obj\Debug\netcoreapp3.0\lambdaPjt.csprojAssemblyReference.cache
+C:\CSharp_\pjt\lec20\lambdaPjt\lambdaPjt\obj\Debug\netcoreapp3.0\lambdaPjt.AssemblyInfoInputs.cache
+C:\CSharp_\pjt\lec20\lambdaPjt\lambdaPjt\obj\Debug\netcoreapp3.0\lambdaPjt.AssemblyInfo.cs
+C:\CSharp_\pjt\lec20\lambdaPjt\lambdaPjt\obj\Debug\netcoreapp3.0\lambdaPjt.dll
+C:\CSharp_\pjt\lec20\lambdaPjt\lambdaPjt\obj\Debug\netcoreapp3.0\lambdaPjt.pdb
