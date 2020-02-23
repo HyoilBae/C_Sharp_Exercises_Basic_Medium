@@ -1,0 +1,11 @@
+C:\CSharp_\pjt\lec19\exceptionPjt\exceptionPjt\bin\Debug\netcoreapp3.0\exceptionPjt.exe
+C:\CSharp_\pjt\lec19\exceptionPjt\exceptionPjt\bin\Debug\netcoreapp3.0\exceptionPjt.deps.json
+C:\CSharp_\pjt\lec19\exceptionPjt\exceptionPjt\bin\Debug\netcoreapp3.0\exceptionPjt.runtimeconfig.json
+C:\CSharp_\pjt\lec19\exceptionPjt\exceptionPjt\bin\Debug\netcoreapp3.0\exceptionPjt.runtimeconfig.dev.json
+C:\CSharp_\pjt\lec19\exceptionPjt\exceptionPjt\bin\Debug\netcoreapp3.0\exceptionPjt.dll
+C:\CSharp_\pjt\lec19\exceptionPjt\exceptionPjt\bin\Debug\netcoreapp3.0\exceptionPjt.pdb
+C:\CSharp_\pjt\lec19\exceptionPjt\exceptionPjt\obj\Debug\netcoreapp3.0\exceptionPjt.csprojAssemblyReference.cache
+C:\CSharp_\pjt\lec19\exceptionPjt\exceptionPjt\obj\Debug\netcoreapp3.0\exceptionPjt.AssemblyInfoInputs.cache
+C:\CSharp_\pjt\lec19\exceptionPjt\exceptionPjt\obj\Debug\netcoreapp3.0\exceptionPjt.AssemblyInfo.cs
+C:\CSharp_\pjt\lec19\exceptionPjt\exceptionPjt\obj\Debug\netcoreapp3.0\exceptionPjt.dll
+C:\CSharp_\pjt\lec19\exceptionPjt\exceptionPjt\obj\Debug\netcoreapp3.0\exceptionPjt.pdb
