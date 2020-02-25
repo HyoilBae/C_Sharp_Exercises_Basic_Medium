@@ -16,15 +16,25 @@ namespace _52_CreateArrayWithMiddleElement
             int[] array3 = { -1, 0, 2 };
 
             //easy way
-            int[] middleArray = new int[3];
-            middleArray[0] = array1[1];
-            middleArray[1] = array2[1];
-            middleArray[2] = array3[1];
+            //
+            //middleArray[0] = array1[1];
+            //middleArray[1] = array2[1];
+            //middleArray[2] = array3[1];
 
-            Console.WriteLine(string.Join(", ", middleArray));
+            //Console.WriteLine(string.Join(", ", middleArray));
 
-            //what if 
+            //what if there were more than 3 arrays?
+
            
+        }
+        static void takeMiddleNumber(int[] intArr1, int[] intArr2, int[] intArr3)
+        {
+             
+            int[] middleArray = new int[3];
+            for (int i = 0; i < middleArray.Length; i++)
+            {
+                
+            }
         }
     }
 }
