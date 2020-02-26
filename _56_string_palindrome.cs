@@ -14,6 +14,9 @@ namespace _56_string_Palindrome
             string exString2 = "abcd";
             palindromeCheck(exString1);
             palindromeCheck(exString2);
+
+            Console.WriteLine(checkPalindrome(exString1));
+            Console.WriteLine(checkPalindrome(exString2));
         }
 
         static void palindromeCheck(string str)
@@ -32,6 +35,13 @@ namespace _56_string_Palindrome
                     Console.WriteLine(true);
             }
             
+        }
+
+        public static bool checkPalindrome(string inputString)
+        {
+            char[] c = inputString.ToCharArray();
+            Array.Reverse(c);
+            return new string(c).Equals(inputString);
         }
     }
 }
