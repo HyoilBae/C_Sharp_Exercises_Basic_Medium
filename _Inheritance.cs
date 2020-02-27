@@ -12,6 +12,9 @@ namespace Inheritance
         {
             User alice = new User("Alice", "Password");
             alice.Hello();
+
+            Console.WriteLine(alice.ToString());
+            Console.WriteLine(alice._PassWord);
         }
     }
 }
