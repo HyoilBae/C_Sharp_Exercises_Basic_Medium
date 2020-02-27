@@ -39,53 +39,5 @@ namespace Inheritance
         }
     }
 
-    class MagicList<T> : List<T>
-    {
-        public T ChooseRandom()
-        {
-            Random randomGenerator = new Random();
-            return this[randomGenerator.Next(0, Count)];
-        }
-    }
-
-    class User
-    {
-        public string _UserName { get; set; }
-        protected string _PassWord { get; set; }
-
-        public User(string UserName, string PassWord)
-        {
-            _UserName = UserName;
-            _PassWord = PassWord;
-
-        }
-
-        public User()
-        {
-
-        }
-        public void Hello()
-        {
-            Console.WriteLine("Hello {0}", _UserName);
-            //Console.WriteLine($"Hello {UserName}");
-        }
-        public override string ToString()
-        {
-            return _UserName;
-        }
-    }
-
-    class Student : User
-    {
-        public Student(string Name, string passWord)
-        {
-            base._UserName = Name;
-            base._PassWord = passWord;
-        }
-
-        public Student()
-        {
-
-        }
-    }
+   
 }
