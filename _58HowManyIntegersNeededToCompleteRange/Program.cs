@@ -8,14 +8,27 @@ namespace _58HowManyIntegersNeededToCompleteRange
 {
     class Program
     {
+        static void intCount(int[] arr)
+        {
+
+        }
         static void Main(string[] args)
         {
-            Random random = new Random();
+            //Random random = new Random();
+            //int[] numbers = new int[10]{ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
-            int[] intArr = new int[] { random.Next(1, 10) };
+            //int[] intArr = new int[10];
+            //for (int i = 0; i < 5; i++)
+            //{
+            //    int randomNumber = random.Next(1, 10);
+            //    intArr[i] = randomNumber;
+               
+            //}
 
             int intCount = intArr.Length;
             Console.WriteLine(intCount);
+
+            Console.Write(string.Join(", ", intArr));
 
 
         }
