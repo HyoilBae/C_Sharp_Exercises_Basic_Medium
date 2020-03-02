@@ -22,8 +22,11 @@ namespace _58HowManyIntegersNeededToCompleteRange
             //{
             //    int randomNumber = random.Next(1, 10);
             //    intArr[i] = randomNumber;
-               
+
             //}
+
+            int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            int[] intArr = { 1, 3, 4, 7, 9 };
 
             int intCount = intArr.Length;
             Console.WriteLine(intCount);
