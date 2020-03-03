@@ -1,0 +1,6 @@
+C:\Users\hyoil\Documents\GitHub\C_Shapr_Exercises_Basic\_61SortingIntegersWithoutMoving-5\bin\Debug\_61SortingIntegersWithoutMoving-5.exe.config
+C:\Users\hyoil\Documents\GitHub\C_Shapr_Exercises_Basic\_61SortingIntegersWithoutMoving-5\bin\Debug\_61SortingIntegersWithoutMoving-5.exe
+C:\Users\hyoil\Documents\GitHub\C_Shapr_Exercises_Basic\_61SortingIntegersWithoutMoving-5\bin\Debug\_61SortingIntegersWithoutMoving-5.pdb
+C:\Users\hyoil\Documents\GitHub\C_Shapr_Exercises_Basic\_61SortingIntegersWithoutMoving-5\obj\Debug\_61SortingIntegersWithoutMoving-5.csprojAssemblyReference.cache
+C:\Users\hyoil\Documents\GitHub\C_Shapr_Exercises_Basic\_61SortingIntegersWithoutMoving-5\obj\Debug\_61SortingIntegersWithoutMoving-5.exe
+C:\Users\hyoil\Documents\GitHub\C_Shapr_Exercises_Basic\_61SortingIntegersWithoutMoving-5\obj\Debug\_61SortingIntegersWithoutMoving-5.pdb
