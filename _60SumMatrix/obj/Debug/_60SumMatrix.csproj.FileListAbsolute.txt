@@ -1,0 +1,6 @@
+C:\Users\hyoil\Documents\GitHub\C_Shapr_Exercises_Basic\_60SumMatrix\bin\Debug\_60SumMatrix.exe.config
+C:\Users\hyoil\Documents\GitHub\C_Shapr_Exercises_Basic\_60SumMatrix\bin\Debug\_60SumMatrix.exe
+C:\Users\hyoil\Documents\GitHub\C_Shapr_Exercises_Basic\_60SumMatrix\bin\Debug\_60SumMatrix.pdb
+C:\Users\hyoil\Documents\GitHub\C_Shapr_Exercises_Basic\_60SumMatrix\obj\Debug\_60SumMatrix.csprojAssemblyReference.cache
+C:\Users\hyoil\Documents\GitHub\C_Shapr_Exercises_Basic\_60SumMatrix\obj\Debug\_60SumMatrix.exe
+C:\Users\hyoil\Documents\GitHub\C_Shapr_Exercises_Basic\_60SumMatrix\obj\Debug\_60SumMatrix.pdb
