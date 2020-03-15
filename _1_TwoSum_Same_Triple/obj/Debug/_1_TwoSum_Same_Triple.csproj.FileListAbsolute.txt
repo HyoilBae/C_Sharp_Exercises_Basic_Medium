@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_1_TwoSum_Same_Triple\bin\Debug\_1_TwoSum_Same_Triple.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_1_TwoSum_Same_Triple\bin\Debug\_1_TwoSum_Same_Triple.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_1_TwoSum_Same_Triple\bin\Debug\_1_TwoSum_Same_Triple.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_1_TwoSum_Same_Triple\obj\Debug\_1_TwoSum_Same_Triple.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_1_TwoSum_Same_Triple\obj\Debug\_1_TwoSum_Same_Triple.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_1_TwoSum_Same_Triple\obj\Debug\_1_TwoSum_Same_Triple.pdb
