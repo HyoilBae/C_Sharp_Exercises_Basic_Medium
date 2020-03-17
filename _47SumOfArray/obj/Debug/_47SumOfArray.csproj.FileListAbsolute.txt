@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\CSC205\_47SumOfArray\bin\Debug\_47SumOfArray.exe.config
+C:\Users\hyoil\source\repos\C#\CSC205\_47SumOfArray\bin\Debug\_47SumOfArray.exe
+C:\Users\hyoil\source\repos\C#\CSC205\_47SumOfArray\bin\Debug\_47SumOfArray.pdb
+C:\Users\hyoil\source\repos\C#\CSC205\_47SumOfArray\obj\Debug\_47SumOfArray.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\CSC205\_47SumOfArray\obj\Debug\_47SumOfArray.exe
+C:\Users\hyoil\source\repos\C#\CSC205\_47SumOfArray\obj\Debug\_47SumOfArray.pdb
