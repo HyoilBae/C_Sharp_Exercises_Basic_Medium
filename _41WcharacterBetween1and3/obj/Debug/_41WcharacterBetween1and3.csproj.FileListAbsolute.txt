@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\_41WcharacterBetween1and3\bin\Debug\_41WcharacterBetween1and3.exe.config
+C:\Users\hyoil\source\repos\_41WcharacterBetween1and3\bin\Debug\_41WcharacterBetween1and3.exe
+C:\Users\hyoil\source\repos\_41WcharacterBetween1and3\bin\Debug\_41WcharacterBetween1and3.pdb
+C:\Users\hyoil\source\repos\_41WcharacterBetween1and3\obj\Debug\_41WcharacterBetween1and3.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\_41WcharacterBetween1and3\obj\Debug\_41WcharacterBetween1and3.exe
+C:\Users\hyoil\source\repos\_41WcharacterBetween1and3\obj\Debug\_41WcharacterBetween1and3.pdb
