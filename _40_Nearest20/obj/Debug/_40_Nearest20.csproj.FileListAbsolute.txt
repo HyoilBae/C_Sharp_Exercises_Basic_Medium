@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_40_Nearest20\bin\Debug\_40_Nearest20.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_40_Nearest20\bin\Debug\_40_Nearest20.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_40_Nearest20\bin\Debug\_40_Nearest20.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_40_Nearest20\obj\Debug\_40_Nearest20.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_40_Nearest20\obj\Debug\_40_Nearest20.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_40_Nearest20\obj\Debug\_40_Nearest20.pdb
