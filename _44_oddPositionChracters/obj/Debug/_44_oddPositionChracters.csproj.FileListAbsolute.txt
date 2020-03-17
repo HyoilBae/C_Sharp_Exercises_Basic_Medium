@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_44_oddPositionChracters\bin\Debug\_44_oddPositionChracters.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_44_oddPositionChracters\bin\Debug\_44_oddPositionChracters.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_44_oddPositionChracters\bin\Debug\_44_oddPositionChracters.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_44_oddPositionChracters\obj\Debug\_44_oddPositionChracters.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_44_oddPositionChracters\obj\Debug\_44_oddPositionChracters.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_44_oddPositionChracters\obj\Debug\_44_oddPositionChracters.pdb
