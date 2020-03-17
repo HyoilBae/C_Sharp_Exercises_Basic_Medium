@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\_42_4lowerCase_UpperCase\bin\Debug\_42_4lowerCase_UpperCase.exe.config
+C:\Users\hyoil\source\repos\_42_4lowerCase_UpperCase\bin\Debug\_42_4lowerCase_UpperCase.exe
+C:\Users\hyoil\source\repos\_42_4lowerCase_UpperCase\bin\Debug\_42_4lowerCase_UpperCase.pdb
+C:\Users\hyoil\source\repos\_42_4lowerCase_UpperCase\obj\Debug\_42_4lowerCase_UpperCase.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\_42_4lowerCase_UpperCase\obj\Debug\_42_4lowerCase_UpperCase.exe
+C:\Users\hyoil\source\repos\_42_4lowerCase_UpperCase\obj\Debug\_42_4lowerCase_UpperCase.pdb
