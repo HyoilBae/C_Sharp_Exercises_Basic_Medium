@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\CSC205\_45_Count_Integer_Array\bin\Debug\_45_Count_Integer_Array.exe.config
+C:\Users\hyoil\source\repos\C#\CSC205\_45_Count_Integer_Array\bin\Debug\_45_Count_Integer_Array.exe
+C:\Users\hyoil\source\repos\C#\CSC205\_45_Count_Integer_Array\bin\Debug\_45_Count_Integer_Array.pdb
+C:\Users\hyoil\source\repos\C#\CSC205\_45_Count_Integer_Array\obj\Debug\_45_Count_Integer_Array.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\CSC205\_45_Count_Integer_Array\obj\Debug\_45_Count_Integer_Array.exe
+C:\Users\hyoil\source\repos\C#\CSC205\_45_Count_Integer_Array\obj\Debug\_45_Count_Integer_Array.pdb
