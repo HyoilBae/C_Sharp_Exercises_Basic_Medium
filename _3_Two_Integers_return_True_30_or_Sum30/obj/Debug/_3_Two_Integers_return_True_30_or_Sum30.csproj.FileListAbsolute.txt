@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_3_Two_Integers_return_True_30_or_Sum30\bin\Debug\_3_Two_Integers_return_True_30_or_Sum30.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_3_Two_Integers_return_True_30_or_Sum30\bin\Debug\_3_Two_Integers_return_True_30_or_Sum30.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_3_Two_Integers_return_True_30_or_Sum30\bin\Debug\_3_Two_Integers_return_True_30_or_Sum30.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_3_Two_Integers_return_True_30_or_Sum30\obj\Debug\_3_Two_Integers_return_True_30_or_Sum30.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_3_Two_Integers_return_True_30_or_Sum30\obj\Debug\_3_Two_Integers_return_True_30_or_Sum30.pdb
