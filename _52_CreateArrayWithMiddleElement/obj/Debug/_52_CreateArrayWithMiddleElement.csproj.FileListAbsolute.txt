@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_52_CreateArrayWithMiddleElement\obj\Debug\_52_CreateArrayWithMiddleElement.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_52_CreateArrayWithMiddleElement\bin\Debug\_52_CreateArrayWithMiddleElement.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_52_CreateArrayWithMiddleElement\bin\Debug\_52_CreateArrayWithMiddleElement.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_52_CreateArrayWithMiddleElement\bin\Debug\_52_CreateArrayWithMiddleElement.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_52_CreateArrayWithMiddleElement\obj\Debug\_52_CreateArrayWithMiddleElement.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_52_CreateArrayWithMiddleElement\obj\Debug\_52_CreateArrayWithMiddleElement.pdb
