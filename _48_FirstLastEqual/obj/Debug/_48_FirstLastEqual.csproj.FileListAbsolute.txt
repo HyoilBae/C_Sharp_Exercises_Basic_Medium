@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_48_FirstLastEqual\bin\Debug\_48_FirstLastEqual.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_48_FirstLastEqual\bin\Debug\_48_FirstLastEqual.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_48_FirstLastEqual\bin\Debug\_48_FirstLastEqual.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_48_FirstLastEqual\obj\Debug\_48_FirstLastEqual.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_48_FirstLastEqual\obj\Debug\_48_FirstLastEqual.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_48_FirstLastEqual\obj\Debug\_48_FirstLastEqual.pdb
