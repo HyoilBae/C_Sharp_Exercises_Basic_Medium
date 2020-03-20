@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_57_pairOfadjacentElementsHighest\bin\Debug\_57_pairOfadjacentElementsHighest.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_57_pairOfadjacentElementsHighest\bin\Debug\_57_pairOfadjacentElementsHighest.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_57_pairOfadjacentElementsHighest\bin\Debug\_57_pairOfadjacentElementsHighest.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_57_pairOfadjacentElementsHighest\obj\Debug\_57_pairOfadjacentElementsHighest.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_57_pairOfadjacentElementsHighest\obj\Debug\_57_pairOfadjacentElementsHighest.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_57_pairOfadjacentElementsHighest\obj\Debug\_57_pairOfadjacentElementsHighest.pdb
