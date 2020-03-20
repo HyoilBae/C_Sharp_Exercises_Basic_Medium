@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\Basic_20\bin\Debug\Basic_20.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\Basic_20\bin\Debug\Basic_20.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\Basic_20\bin\Debug\Basic_20.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\Basic_20\obj\Debug\Basic_20.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\Basic_20\obj\Debug\Basic_20.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\Basic_20\obj\Debug\Basic_20.pdb
