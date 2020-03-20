@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_53_CheckOddNumber\bin\Debug\_53_CheckOddNumber.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_53_CheckOddNumber\bin\Debug\_53_CheckOddNumber.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_53_CheckOddNumber\bin\Debug\_53_CheckOddNumber.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_53_CheckOddNumber\obj\Debug\_53_CheckOddNumber.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\_53_CheckOddNumber\obj\Debug\_53_CheckOddNumber.pdb
