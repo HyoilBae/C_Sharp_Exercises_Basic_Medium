@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Class_Examples\bin\Debug\CSC205_Class_Examples.exe.config
+C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Class_Examples\bin\Debug\CSC205_Class_Examples.exe
+C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Class_Examples\bin\Debug\CSC205_Class_Examples.pdb
+C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Class_Examples\obj\Debug\CSC205_Class_Examples.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Class_Examples\obj\Debug\CSC205_Class_Examples.exe
+C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Class_Examples\obj\Debug\CSC205_Class_Examples.pdb
