@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\CSC205\Final_Hyo_Bae\bin\Debug\Final_Hyo_Bae.exe.config
+C:\Users\hyoil\source\repos\C#\CSC205\Final_Hyo_Bae\bin\Debug\Final_Hyo_Bae.exe
+C:\Users\hyoil\source\repos\C#\CSC205\Final_Hyo_Bae\bin\Debug\Final_Hyo_Bae.pdb
+C:\Users\hyoil\source\repos\C#\CSC205\Final_Hyo_Bae\obj\Debug\Final_Hyo_Bae.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\CSC205\Final_Hyo_Bae\obj\Debug\Final_Hyo_Bae.exe
+C:\Users\hyoil\source\repos\C#\CSC205\Final_Hyo_Bae\obj\Debug\Final_Hyo_Bae.pdb
