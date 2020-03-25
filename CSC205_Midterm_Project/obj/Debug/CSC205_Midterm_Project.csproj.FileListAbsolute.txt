@@ -1,0 +1,12 @@
+C:\Users\hyoil\source\repos\CSC205\CSC205_Midterm_Project\bin\Debug\CSC205_Midterm_Project.exe.config
+C:\Users\hyoil\source\repos\CSC205\CSC205_Midterm_Project\bin\Debug\CSC205_Midterm_Project.exe
+C:\Users\hyoil\source\repos\CSC205\CSC205_Midterm_Project\bin\Debug\CSC205_Midterm_Project.pdb
+C:\Users\hyoil\source\repos\CSC205\CSC205_Midterm_Project\obj\Debug\CSC205_Midterm_Project.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CSC205\CSC205_Midterm_Project\obj\Debug\CSC205_Midterm_Project.exe
+C:\Users\hyoil\source\repos\CSC205\CSC205_Midterm_Project\obj\Debug\CSC205_Midterm_Project.pdb
+C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Midterm_Project\bin\Debug\CSC205_Midterm_Project.exe.config
+C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Midterm_Project\bin\Debug\CSC205_Midterm_Project.exe
+C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Midterm_Project\bin\Debug\CSC205_Midterm_Project.pdb
+C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Midterm_Project\obj\Debug\CSC205_Midterm_Project.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Midterm_Project\obj\Debug\CSC205_Midterm_Project.exe
+C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Midterm_Project\obj\Debug\CSC205_Midterm_Project.pdb
