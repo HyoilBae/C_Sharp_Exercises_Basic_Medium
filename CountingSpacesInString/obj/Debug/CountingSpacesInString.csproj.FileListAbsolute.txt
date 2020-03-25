@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\CountingSpacesInString\bin\Debug\CountingSpacesInString.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\CountingSpacesInString\bin\Debug\CountingSpacesInString.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\CountingSpacesInString\bin\Debug\CountingSpacesInString.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\CountingSpacesInString\obj\Debug\CountingSpacesInString.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\CountingSpacesInString\obj\Debug\CountingSpacesInString.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\CountingSpacesInString\obj\Debug\CountingSpacesInString.pdb
