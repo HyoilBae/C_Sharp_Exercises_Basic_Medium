@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\HexaDeciToDeci_30\bin\Debug\HexaDeciToDeci_30.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\HexaDeciToDeci_30\bin\Debug\HexaDeciToDeci_30.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\HexaDeciToDeci_30\bin\Debug\HexaDeciToDeci_30.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\HexaDeciToDeci_30\obj\Debug\HexaDeciToDeci_30.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\HexaDeciToDeci_30\obj\Debug\HexaDeciToDeci_30.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\HexaDeciToDeci_30\obj\Debug\HexaDeciToDeci_30.pdb
