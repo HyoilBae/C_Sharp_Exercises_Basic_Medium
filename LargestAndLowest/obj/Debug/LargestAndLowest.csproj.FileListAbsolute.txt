@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\LargestAndLowest\bin\Debug\LargestAndLowest.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\LargestAndLowest\bin\Debug\LargestAndLowest.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\LargestAndLowest\bin\Debug\LargestAndLowest.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\LargestAndLowest\obj\Debug\LargestAndLowest.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\LargestAndLowest\obj\Debug\LargestAndLowest.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\LargestAndLowest\obj\Debug\LargestAndLowest.pdb
