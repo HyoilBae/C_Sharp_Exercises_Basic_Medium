@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\HolZZakGame\bin\Debug\HolZZakGame.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\HolZZakGame\bin\Debug\HolZZakGame.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\HolZZakGame\bin\Debug\HolZZakGame.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\HolZZakGame\obj\Debug\HolZZakGame.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\HolZZakGame\obj\Debug\HolZZakGame.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\HolZZakGame\obj\Debug\HolZZakGame.pdb
