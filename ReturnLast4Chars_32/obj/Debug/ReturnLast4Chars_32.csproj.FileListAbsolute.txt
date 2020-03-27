@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReturnLast4Chars_32\bin\Debug\ReturnLast4Chars_32.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReturnLast4Chars_32\bin\Debug\ReturnLast4Chars_32.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReturnLast4Chars_32\bin\Debug\ReturnLast4Chars_32.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReturnLast4Chars_32\obj\Debug\ReturnLast4Chars_32.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReturnLast4Chars_32\obj\Debug\ReturnLast4Chars_32.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReturnLast4Chars_32\obj\Debug\ReturnLast4Chars_32.pdb
