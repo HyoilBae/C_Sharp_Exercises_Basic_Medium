@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\PrettyGugudan\bin\Debug\PrettyGugudan.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\PrettyGugudan\bin\Debug\PrettyGugudan.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\PrettyGugudan\bin\Debug\PrettyGugudan.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\PrettyGugudan\obj\Debug\PrettyGugudan.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\PrettyGugudan\obj\Debug\PrettyGugudan.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\PrettyGugudan\obj\Debug\PrettyGugudan.csprojAssemblyReference.cache
