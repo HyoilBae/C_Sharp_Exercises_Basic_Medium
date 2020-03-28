@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\StartWithString_34\bin\Debug\StartWithString_34.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\StartWithString_34\bin\Debug\StartWithString_34.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\StartWithString_34\bin\Debug\StartWithString_34.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\StartWithString_34\obj\Debug\StartWithString_34.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\StartWithString_34\obj\Debug\StartWithString_34.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\StartWithString_34\obj\Debug\StartWithString_34.pdb
