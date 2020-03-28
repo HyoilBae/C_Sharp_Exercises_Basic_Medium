@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReverseTheWordOfSentence_28\bin\Debug\ReverseTheWordOfSentence_28.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReverseTheWordOfSentence_28\bin\Debug\ReverseTheWordOfSentence_28.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReverseTheWordOfSentence_28\bin\Debug\ReverseTheWordOfSentence_28.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReverseTheWordOfSentence_28\obj\Debug\ReverseTheWordOfSentence_28.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReverseTheWordOfSentence_28\obj\Debug\ReverseTheWordOfSentence_28.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReverseTheWordOfSentence_28\obj\Debug\ReverseTheWordOfSentence_28.pdb
