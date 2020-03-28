@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\SumOfDigitsOfIntegers\bin\Debug\SumOfDigitsOfIntegers.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\SumOfDigitsOfIntegers\bin\Debug\SumOfDigitsOfIntegers.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\SumOfDigitsOfIntegers\bin\Debug\SumOfDigitsOfIntegers.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\SumOfDigitsOfIntegers\obj\Debug\SumOfDigitsOfIntegers.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\SumOfDigitsOfIntegers\obj\Debug\SumOfDigitsOfIntegers.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\SumOfDigitsOfIntegers\obj\Debug\SumOfDigitsOfIntegers.pdb
