@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReturnStringWithout\bin\Debug\ReturnStringWithout.exe.config
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReturnStringWithout\bin\Debug\ReturnStringWithout.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReturnStringWithout\bin\Debug\ReturnStringWithout.pdb
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReturnStringWithout\obj\Debug\ReturnStringWithout.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReturnStringWithout\obj\Debug\ReturnStringWithout.exe
+C:\Users\hyoil\source\repos\C#\C# Exercises_Easy\ReturnStringWithout\obj\Debug\ReturnStringWithout.pdb
