@@ -1,0 +1,7 @@
+C:\Users\hyoil\source\repos\CSC440 Quiz 1\CSC440 Quiz 1\bin\Debug\CSC440 Quiz 1.exe.config
+C:\Users\hyoil\source\repos\CSC440 Quiz 1\CSC440 Quiz 1\bin\Debug\CSC440 Quiz 1.exe
+C:\Users\hyoil\source\repos\CSC440 Quiz 1\CSC440 Quiz 1\bin\Debug\CSC440 Quiz 1.pdb
+C:\Users\hyoil\source\repos\CSC440 Quiz 1\CSC440 Quiz 1\obj\Debug\CSC440 Quiz 1.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CSC440 Quiz 1\CSC440 Quiz 1\obj\Debug\CSC440 Quiz 1.csproj.CoreCompileInputs.cache
+C:\Users\hyoil\source\repos\CSC440 Quiz 1\CSC440 Quiz 1\obj\Debug\CSC440 Quiz 1.exe
+C:\Users\hyoil\source\repos\CSC440 Quiz 1\CSC440 Quiz 1\obj\Debug\CSC440 Quiz 1.pdb
