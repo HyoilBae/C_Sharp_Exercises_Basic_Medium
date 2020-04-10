@@ -1,2 +1,2 @@
-# C_Shapr_Exercises_Basic
- 
+# Code_Cademy_C_Sharp_Exercises
+ C# Exercises from CodeCademy
